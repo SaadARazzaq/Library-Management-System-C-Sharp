@@ -1,0 +1,15 @@
+C:\Users\saadg\Desktop\Library-Management-System-C-Sharp\Library Management System\bin\Debug\net6.0\Library Management System.exe
+C:\Users\saadg\Desktop\Library-Management-System-C-Sharp\Library Management System\bin\Debug\net6.0\Library Management System.deps.json
+C:\Users\saadg\Desktop\Library-Management-System-C-Sharp\Library Management System\bin\Debug\net6.0\Library Management System.runtimeconfig.json
+C:\Users\saadg\Desktop\Library-Management-System-C-Sharp\Library Management System\bin\Debug\net6.0\Library Management System.dll
+C:\Users\saadg\Desktop\Library-Management-System-C-Sharp\Library Management System\bin\Debug\net6.0\Library Management System.pdb
+C:\Users\saadg\Desktop\Library-Management-System-C-Sharp\Library Management System\obj\Debug\net6.0\Library Management System.csproj.AssemblyReference.cache
+C:\Users\saadg\Desktop\Library-Management-System-C-Sharp\Library Management System\obj\Debug\net6.0\Library Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saadg\Desktop\Library-Management-System-C-Sharp\Library Management System\obj\Debug\net6.0\Library Management System.AssemblyInfoInputs.cache
+C:\Users\saadg\Desktop\Library-Management-System-C-Sharp\Library Management System\obj\Debug\net6.0\Library Management System.AssemblyInfo.cs
+C:\Users\saadg\Desktop\Library-Management-System-C-Sharp\Library Management System\obj\Debug\net6.0\Library Management System.csproj.CoreCompileInputs.cache
+C:\Users\saadg\Desktop\Library-Management-System-C-Sharp\Library Management System\obj\Debug\net6.0\Library Management System.dll
+C:\Users\saadg\Desktop\Library-Management-System-C-Sharp\Library Management System\obj\Debug\net6.0\refint\Library Management System.dll
+C:\Users\saadg\Desktop\Library-Management-System-C-Sharp\Library Management System\obj\Debug\net6.0\Library Management System.pdb
+C:\Users\saadg\Desktop\Library-Management-System-C-Sharp\Library Management System\obj\Debug\net6.0\Library Management System.genruntimeconfig.cache
+C:\Users\saadg\Desktop\Library-Management-System-C-Sharp\Library Management System\obj\Debug\net6.0\ref\Library Management System.dll
